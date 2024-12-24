@@ -1,1 +1,26 @@
 /* Your CSS code here. */
+*
+{
+	font-family: "Anton", serif;
+}
+body
+{
+	height:100vh;
+	width:100vw;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	
+}
+#timer
+{
+	display:flex;
+	background-color:red;
+	letter-spacing:5px;
+	padding:10px;
+	background-color:grey;
+	color:black;
+	border-radius:3px;
+	
+}
